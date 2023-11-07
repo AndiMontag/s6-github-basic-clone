@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. I've learned that git helps you manage your changes on projects
 2. Git is helpful because it creates save points and allows you to experiment
 3. I am liking git a lot more than I thought I would
+=======
+1. Github is a helpful way to collaborate on projects with other coders
+2. Github is used outside of software development
+3. While there are many cloud based services for storing your projects and project collaboration, Github is by far the most popular
+>>>>>>> github
